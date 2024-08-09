@@ -1,0 +1,273 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.nav {
+    background-color: #0c0e23;
+}
+
+.searchbox {
+    border: 2px solid #3a3c4d;
+    background-color: #1f2135;
+}
+
+.searchicon {
+    padding-top: 12px;
+    margin-left: 5px;
+}
+
+input.searchbar {
+    background-color: #1f2135 !important;
+    color: white !important;
+    border: none;
+}
+
+.navbox {
+    background-color: #1542d5 !important;
+}
+
+.hero1 {
+    background-color: #0c0e23;
+}
+
+.hero0btn {
+    background-color: #fff !important;
+    color: #000000 !important;
+}
+
+.hero1btn {
+    background-color: #1f2134 !important;
+    color: #fff !important;
+    border: 2px solid #37394a !important;
+}
+
+.herotext {
+    font-family: Playfair Display;
+    font-size: 3.5rem;
+    font-weight: 700;
+}
+
+.herotext1 {
+    font-family: Playfair Display;
+    color: #1542d5;
+    font-size: 3.5rem;
+    font-weight: 700;
+}
+
+.hero-sec-text {
+    color: #242424c4;
+}
+
+.squareicon {
+    position: absolute;
+    /* top: 260px; */
+    right: 650px;
+}
+
+.arrow1 {
+    position: absolute;
+    top: 135px;
+    right: 636px;
+}
+
+.arrow2 {
+    position: absolute;
+    top: 14px;
+    left: 500px;
+}
+
+.lineimg {
+    position: absolute;
+    top: 173px;
+    right: 612px;
+}
+
+.signupbtn {
+    background-color: #1542d5 !important;
+    color: #fff !important;
+}
+
+.loginbtn {
+    background-color: #fff !important;
+    color: #1542d5 !important;
+}
+
+.circle {
+    position: absolute;
+    top: 15px;
+    left: 400px;
+}
+
+.circles {
+    position: absolute;
+    left: 40px;
+    top: 567px;
+}
+
+.bgblue {
+    position: absolute;
+    top: 70px;
+    left: 213px;
+}
+
+.bgwhite {
+    position: absolute;
+    left: 209px;
+}
+
+.main {
+    position: absolute;
+    left: 50px;
+    top: 25px;
+}
+
+.cardimages {
+    width: 18rem !important;
+    height: 17rem !important;
+}
+
+.circle1,
+.circle2,
+.circle4,
+.circle5 {
+    height: 15px;
+    width: 15px;
+    border-radius: 10px;
+    background-color: #c2cef4;
+    cursor: pointer;
+}
+
+.circle3 {
+    height: 15px;
+    width: 40px;
+    border-radius: 10px;
+    background-color: #1542d5;
+    cursor: pointer;
+}
+
+.circles1 {
+    position: absolute;
+    top: 1400px;
+    left: 0px;
+}
+
+.cardimages1 {
+    width: 19rem !important;
+    height: 20rem !important;
+}
+
+.hero2btn {
+    position: relative;
+    top: -55px;
+    left: 36px;
+    background-color: #1542d5 !important;
+    border-top-left-radius: 50px !important;
+    border-bottom-left-radius: 50px !important;
+    width: 100px;
+}
+
+.cardtag {
+    text-align: center;
+    background-color: #e6e3e0;
+    border: 2px solid #eae8e6;
+    font-weight: bold;
+    font-size: small;
+    width: 60px;
+    height: 23px;
+    border-radius: 9px;
+    position: relative;
+    top: -182px;
+    left: 206px;
+}
+
+.cardtagtext {
+    color: #1542d5;
+}
+
+.hero4 {
+    padding-top: 30px;
+    background-color: #f8f9fe !important;
+    border-radius: 10px;
+    margin-bottom: 80px;
+}
+
+.hero5 {
+    font-family: Poppins;
+    margin-bottom: 10px;
+    min-height: 550px;
+}
+
+.hero5text0 {
+    color: #1542d5;
+}
+
+.hero5text2 {
+    font-size: large;
+    color: #5d637a;
+}
+
+.hero5btn {
+    color: #1542d5 !important;
+    font-weight: bold;
+    width: 110px;
+}
+
+.arrow-bottom {
+    position: relative;
+    left: 30px;
+}
+
+.hero5img0 {
+    position: relative;
+    left: 60px;
+    border-radius: 57px;
+}
+
+.hero5img1 {
+    position: absolute;
+    left: 1060px;
+}
+
+.hero5img2 {
+    position: relative;
+    top: 223px;
+    left: 250px;
+    border-radius: 57px;
+}
+
+.circle-bottom {
+    position: relative;
+    top: 416px;
+    left: 219px;
+}
+
+.footer {
+    background-color: #0c0e23 !important;
+}
+
+.footer-text {
+    color: #cecfd3 !important;
+    text-decoration: none;
+}
+
+.footerline {
+    background-color: #242639;
+    height: 2px;
+}
+
+.footerbox {
+    background-color: #fff !important;
+    width: 46px !important;
+    padding: 5px !important;
+    height: 45px !important;
+}
+
+.footerhead {
+    color: #fff !important;
+}
+
+.footeremail {
+    background-color: #fff !important;
+}
